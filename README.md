@@ -18,6 +18,11 @@ This repository is a personal collection of insights from around the web that I�
   A refreshing take on how to use boredom as fuel for creativity and productivity.  
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=8uoJNv9ufjM)
 
+### 🦾 Being Hardly Tired 
+- **How to Win When We're Tired**  
+  A powerful reminder of how to push forward when motivation runs low and fatigue sets in.  
+  📺 [Watch on YouTube](https://www.youtube.com/watch?v=gzLPa6NbcrE)
+
 ---
 
 ## 💬 Contributions Welcome
