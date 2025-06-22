@@ -1,4 +1,5 @@
 
+
 </h1>🌱 A Better Life </h1>
 Welcome to A Better Life — a curated list of links, videos, and resources that can help us live more intentionally, improve our habits, and make the most of our time.
 
