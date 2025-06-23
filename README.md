@@ -22,6 +22,12 @@ This repository is a personal collection of insights from around the web that I�
 - **How to Win When We're Tired**  
   A powerful reminder of how to push forward when motivation runs low and fatigue sets in.  
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=gzLPa6NbcrE)
+  
+### 💻
+- **Hack Your Motivation**  
+  The psychology of self-motivation — how to activate your internal drive to achieve more.  
+  📺 [Watch on YouTube](https://www.youtube.com/watch?v=7sxpKhIbr0E)
+  
 
 ---
 
