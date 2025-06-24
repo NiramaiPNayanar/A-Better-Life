@@ -9,25 +9,34 @@ This repository is a personal collection of insights from around the web that I�
 ## 🔗 Curated Resources
 
 ### 🎯 Mindset & Habits
-- **Habit Formation & De-formation**  
-  Learn how habits are built and how they can be broken, based on behavioral science.  
+
+* **Habit Formation & De-formation**
+  Learn how habits are built and how they can be broken, based on behavioral science.
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=-moW9jvvMr4)
 
 ### 🧠 Embracing Boredom
-- **How to Monopolize Boredom**  
-  A refreshing take on how to use boredom as fuel for creativity and productivity.  
+
+* **How to Monopolize Boredom**
+  A refreshing take on how to use boredom as fuel for creativity and productivity.
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=8uoJNv9ufjM)
 
-### 🦾 Being Hardly Tired 
-- **How to Win When We're Tired**  
-  A powerful reminder of how to push forward when motivation runs low and fatigue sets in.  
+### 🦾 Being Hardly Tired
+
+* **How to Win When We're Tired**
+  A powerful reminder of how to push forward when motivation runs low and fatigue sets in.
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=gzLPa6NbcrE)
-  
+
 ### 💻 Hack Your Motivation
-- **How to be self-motivated**  
-  The psychology of self-motivation — how to activate your internal drive to achieve more.  
+
+* **How to be self-motivated**
+  The psychology of self-motivation — how to activate your internal drive to achieve more.
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=7sxpKhIbr0E)
-  
+
+### 💭 The Science of Sleep
+
+* **Why Sleep Is the Superpower We All Need**
+  A deep dive into the science behind sleep, its role in memory, health, and productivity, and how to get better rest.
+  📺 [Watch on YouTube](https://www.youtube.com/watch?v=894jQkeewiU)
 
 ---
 
