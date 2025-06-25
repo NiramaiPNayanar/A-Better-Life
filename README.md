@@ -54,4 +54,4 @@ This repository is a personal collection of insights from around the web that I�
 
 ## 💬 Contributions Welcome
 
-If you know a resource that’s changed the way you live, think, or work — feel free to [open a pull request](https://github.com/NiramaiPNayanar/A-Better-Life/pulls) or suggest it in the issues section
+If you know a resource that’s changed the way you live, think, or work — feel free to [open a pull request](https://github.com/NiramaiPNayanar/A-Better-Life/pulls) or suggest it in the issues section.
