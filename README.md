@@ -50,6 +50,13 @@ This repository is a personal collection of insights from around the web that I�
 
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=MnFd34zXbY8)
 
+### 🚀 Retake Back Your Life
+
+* **How to Retake Control of Your Life**
+  A motivating guide on reclaiming your time, focus, and purpose in the face of modern distractions.
+
+  📺 [Watch on YouTube](https://www.youtube.com/watch?v=XjV4HYZTJB8&t=20s)
+
 ---
 
 ## 💬 Contributions Welcome
