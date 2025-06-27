@@ -52,10 +52,17 @@ This repository is a personal collection of insights from around the web that I�
 
 ### 🚀 Dopamine Detox
 
-* **Retake Control of Your Life**
+* **Retake Control of Your Life with a Dopamine Detox**
   A powerful guide on escaping the trap of constant stimulation, rebuilding your focus, and finding meaning through discomfort.
 
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=XjV4HYZTJB8&t=20s)
+
+### 💡 Life Advice
+
+* **17 Life Lessons (I Wish Someone Had Told Me)**
+  A collection of practical life lessons and timeless wisdom that can help guide your mindset, decisions, and direction in life.
+
+  📺 [Watch on YouTube](https://www.youtube.com/watch?v=NqDO5zOqnFM)
 
 ---
 
