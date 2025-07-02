@@ -71,6 +71,13 @@ This repository is a personal collection of insights from around the web that I�
 
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=M759yNSOTMs)
 
+### 🔒 Control What You Can
+
+* **Control What You Can**
+  A mindset-shifting talk on focusing your energy on what you can control, and letting go of what you can’t, to find clarity and peace.
+
+  📺 [Watch on YouTube](https://www.youtube.com/watch?v=koo59KK43YA)
+
 ---
 
 ## 💬 Contributions Welcome
