@@ -69,7 +69,7 @@ This repository is a personal collection of insights from around the web that I�
 * **Discovering Your Ikigai**
   An inspiring exploration of the Japanese concept of Ikigai — the intersection of passion, mission, vocation, and profession — and how to apply it to your life.
 
-  📺 [Watch on YouTube]([https://www.youtube.com/watch?v=M759yNSOTMs](https://www.youtube.com/watch?v=a_6esr8dJm0))
+  📺 [Watch on YouTube](https://www.youtube.com/watch?v=a_6esr8dJm0)
 
 ### 🔒 Control What You Can
 
