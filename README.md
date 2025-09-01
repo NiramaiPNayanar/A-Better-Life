@@ -78,7 +78,7 @@ This repository is a personal collection of insights from around the web that I�
 
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=koo59KK43YA)
 
-### 😀 What is Good life
+### 😀 What is a Good life
 
 * **What Makes a Truly Better Life?**
   A thought-provoking talk that explores what really contributes to a fulfilling, meaningful life—not fame or wealth, but the enduring power of human relationships and connections.
