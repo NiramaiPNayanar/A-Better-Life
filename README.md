@@ -8,7 +8,7 @@ This repository is a personal collection of insights from around the web that I�
  
 ## 🔗 Curated Resources
 
-### 🎯 Mindset & Habits
+### 🎯 Mindset & Habits 
 
 * **Habit Formation & De-formation**
   Learn how habits are built and how they can be broken, based on behavioral science.
