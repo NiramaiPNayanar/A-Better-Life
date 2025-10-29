@@ -15,7 +15,7 @@ This repository is a personal collection of insights from around the web that I�
 
   📺 [Watch on YouTube](https://www.youtube.com/watch?v=-moW9jvvMr4)
 
-### 🧠 Embracing Boredom
+### 🧠 Embracing Boredom 
 
 * **How to Monopolize Boredom**
   A refreshing take on how to use boredom as fuel for creativity and productivity.
