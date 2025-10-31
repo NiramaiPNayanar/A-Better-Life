@@ -1,7 +1,7 @@
 # 🌱 A Better Life
 
 Welcome to **A Better Life** — a curated list of links, videos, and resources that can help us live more intentionally, improve our habits, and make the most of our time.
-
+ 
 This repository is a personal collection of insights from around the web that I’ve found helpful, and I hope they help you too. Feel free to explore, reflect, and maybe even contribute!
  
 --- 
