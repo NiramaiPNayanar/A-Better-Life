@@ -6,7 +6,7 @@ This repository is a personal collection of insights from around the web that I�
  
 --- 
  
-## 🔗 Curated Resources
+## 🔗 Curated Resources 
   
 ### 🎯 Mindset & Habits 
 
